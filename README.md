@@ -55,7 +55,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priceless4code&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priceless4code&theme=tokyo-night)
 
 ## Let’s Connect  
 **Follow me** — I don’t bite (unless you mess up my Git repo history):  
