@@ -55,6 +55,8 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priceless4code&show_icons=true&theme=tokyonight)
+
 ## Let’s Connect  
 **Follow me** — I don’t bite (unless you mess up my Git repo history):  
 
