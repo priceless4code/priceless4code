@@ -55,6 +55,8 @@
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=priceless4code&theme=tokyonight)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priceless4code&theme=tokyo-night)
 
 ## Let’s Connect  
