@@ -1,7 +1,7 @@
 # Hey there, I'm Stanley Nwawuzie 👋  
 **Full-Stack Dev in Progress | JavaScript Wrangler | Jesus Lover | Meme Lord (Certified)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=priceless4code&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=priceless4code&style=flat-square&color=blueviolet)  
 [![GitHub Follow](https://img.shields.io/github/followers/priceless4code?label=Follow&style=social)](https://github.com/priceless4code)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/priceless_stan?style=social)](https://twitter.com/priceless_stan)
 
@@ -43,7 +43,7 @@
 ## 🤪 Fun Facts
 
 - I love Jesus with my whole chest.  
-- I build websites for fun. Try me 
+- I build websites for fun. Try me.  
 - I speak **fluent sarcasm**.  
 - Always down to build meaningful, fire projects.
 
@@ -58,9 +58,23 @@
 
 ---
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priceless4code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophy Cabinet
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=priceless4code&theme=tokyonight)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priceless4code&theme=tokyo-night)
+---
+
+### 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=priceless4code&theme=tokyo-night)
 
 ---
 
@@ -70,9 +84,17 @@
 
 - [Twitter](https://twitter.com/priceless_stan)  
 - [LinkedIn](https://ng.linkedin.com/in/priceless-stanley-637728102)  
-  
 
 ---
 
+## 😂 Dev Joke of the Day
+
+> ![Joke](https://readme-jokes.vercel.app/api)
+---
+
+## 📖 Daily Bible Verse
+
+> <img src="https://beta.ourmanna.com/verses/api/image?style=second&order=random" alt="Bible Verse of the Day" />
+---
 **Thanks for stopping by. Stay blessed, stay coding.**  
 If you scrolled this far... you’re not just a visitor. You’re *family*.
