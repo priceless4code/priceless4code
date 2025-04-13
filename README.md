@@ -72,10 +72,7 @@
 
 ---
 
-### 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=priceless4code&theme=tokyo-night)
-
+![GitHub Activity Graph](https://readme-activity-graph.vercel.app/graph?username=priceless4code&theme=tokyo-night)
 ---
 
 ## 🔗 Let’s Connect
@@ -92,9 +89,8 @@
 > ![Joke](https://readme-jokes.vercel.app/api)
 ---
 
-## 📖 Daily Bible Verse
-
-> <img src="https://beta.ourmanna.com/verses/api/image?style=second&order=random" alt="Bible Verse of the Day" />
+## 📖 Bible Verse of the Day  
+![Verse](https://dailyverses.net/random/_static/verse-of-the-day.png)
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
 If you scrolled this far... you’re not just a visitor. You’re *family*.
