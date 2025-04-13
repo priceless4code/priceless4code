@@ -89,8 +89,11 @@
 > ![Joke](https://readme-jokes.vercel.app/api)
 ---
 
-## 📖 Bible Verse of the Day  
-![Verse](https://dailyverses.net/random/_static/verse-of-the-day.png)
+## 📖 Bible Verse of the Day
+
+<!-- BIBLE-VERSE-START -->
+> *Loading daily dose of Scripture...*
+<!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
 If you scrolled this far... you’re not just a visitor. You’re *family*.
