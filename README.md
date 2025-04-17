@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **How great you are, Sovereign lord! There is no one like you, and there is no God but you, as we have heard with our own ears. - 2 Samuel 7:22 (NIV)**
+> **Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails. - Proverbs 19:21 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
