@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Do you not know? Have you not heard? The Lord is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. - Isaiah 40:28 (NIV)**
+> **The Lord will guide you always; he will satisfy your needs in a sun-scorched land and will strengthen your frame. You will be like a well-watered garden, like a spring whose waters never fail. - Isaiah 58:11 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
