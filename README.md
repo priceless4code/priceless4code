@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Come to me, all you who are weary and burdened, and I will give you rest. - Matthew 11:28 (NIV)**
+> **I appeal to you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree with one another in what you say and that there be no divisions among you, but that you be perfectly united in mind and thought. - 1 Corinthians 1:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
