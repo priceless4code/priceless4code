@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong. - 1 Corinthians 1:27 (NIV)**
+> **If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him! - Luke 11:13  (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
