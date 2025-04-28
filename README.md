@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **And now these three remain: faith, hope and love. But the greatest of these is love. - 1 Corinthians 13:13 (NIV)**
+> **“I am the Alpha and the Omega,” says the Lord God, “who is, and who was, and who is to come, the Almighty.” - Revelation 1:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
