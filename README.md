@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Set your minds on things above, not on earthly things. - Colossians 3:2 (NIV)**
+> **If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. - 1 Corinthians 13:2 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
