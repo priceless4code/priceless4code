@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Dear children, let us not love with words or speech but with actions and in truth. - 1 John 3:18 (NIV)**
+> **LORD, you establish peace for us; all that we have accomplished you have done for us. - Isaiah 26:12 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
