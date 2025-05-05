@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **LORD, you establish peace for us; all that we have accomplished you have done for us. - Isaiah 26:12 (NIV)**
+> **Now faith is confidence in what we hope for and assurance about what we do not see. - Hebrews 11:1 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
