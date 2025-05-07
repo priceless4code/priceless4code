@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **"'If you can'?" said Jesus. "Everything is possible for him who believes." - Mark 9:23 (NIV)**
+> **The LORD is a refuge for the oppressed, a stronghold in times of trouble. - Psalm 9:9 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
