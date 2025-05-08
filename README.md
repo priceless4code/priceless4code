@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The LORD is a refuge for the oppressed, a stronghold in times of trouble. - Psalm 9:9 (NIV)**
+> **In his heart a man plans his course, but the LORD determines his steps. - Proverbs 16:9 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
