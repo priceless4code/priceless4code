@@ -59,14 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priceless4code&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priceless4code&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -80,13 +72,6 @@
 
 
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priceless4code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🏆 GitHub Trophy Cabinet
 
