@@ -40,6 +40,16 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![Stanley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priceless4code&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priceless4code&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priceless4code&theme=radical)
+---
+
+
 ## 🤪 Fun Facts
 
 - I love Jesus with my whole chest.  
@@ -57,6 +67,18 @@
 </div>
 
 ---
+
+## 🛠️ Tech Stack
+
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: Node.js, Express.js
+- **Databases**: MongoDB
+- **Tools**: Git, GitHub
+
+
+---
+
+
 
 ### 🔥 GitHub Streak
 
