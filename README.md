@@ -93,7 +93,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Your word is a lamp to my feet and a light for my path. - Psalm 119:105 (NIV)**
+> **This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. - 1 John 4:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
