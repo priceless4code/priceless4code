@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away. - Revelation 21:4 (NIV)**
+> **I know that my redeemer lives, and that in the end he will stand on the earth. - Job 19:25 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
