@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Do not merely listen to the word, and so deceive yourselves. Do what it says. - James 1:22 (NIV)**
+> **May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all. - 2 Corinthians 13:14 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
