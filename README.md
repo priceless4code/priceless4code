@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **If we live, we live for the Lord; and if we die, we die for the Lord. So, whether we live or die, we belong to the Lord. - Romans 14:8 (NIV)**
+> **For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline. - 2 Timothy 1:7 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
