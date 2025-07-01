@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Whoever has the Son has life; whoever does not have the Son of God does not have life. - 1 John 5:12 (NIV)**
+> **For to me, to live is Christ and to die is gain. - Philippians 1:21 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
