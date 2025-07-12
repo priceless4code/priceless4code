@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things? - Romans 8:32 (NIV)**
+> **To do what is right and just is more acceptable to the LORD than sacrifice. - Proverbs 21:3 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
