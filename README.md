@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **I love the Lord, for he heard my voice; he heard my cry for mercy. Because he turned his ear to me, I will call on him as long as I live. - Psalm 116:1-2 (NIV)**
+> **Everyone comes naked from their mother's womb, and as everyone comes, so they depart. They take nothing from their toil that they can carry in their hands. - Ecclesiastes 5:15 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
