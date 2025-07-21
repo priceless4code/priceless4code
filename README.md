@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Start children off on the way they should go, and even when they are old they will not turn from it. - Proverbs 22:6 (NIV)**
+> **Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers. - Galatians 6:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
