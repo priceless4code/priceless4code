@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble. - 1 Peter 3:8 (NIV)**
+> **I put no trust in my bow, my sword does not bring me victory; - Psalm 44:6 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
