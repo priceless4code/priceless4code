@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them. - 1 John 4:16 (NIV)**
+> **As the deer pants for streams of water, so my soul pants for you, my God. - Psalm 42:1 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
