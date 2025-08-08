@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit. - 1 Corinthians 2:14 (NIV)**
+> **Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death. - 2 Corinthians 7:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
