@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Everyone who does evil hates the light, and will not come into the light for fear that their deeds will be exposed. But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God. - John 3:20-21 (NIV)**
+> **Know therefore that the Lord your God is God; he is the faithful God, keeping his covenant of love to a thousand generations of those who love him and keep his commandments. - Deuteronomy 7:9 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
