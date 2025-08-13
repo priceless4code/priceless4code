@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, "Your God reigns!" - Isaiah 52:7 (NIV)**
+> **Do not boast about tomorrow, for you do not know what a day may bring. - Proverbs 27:1 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
