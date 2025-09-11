@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins. - 1 John 4:10 (NIV)**
+> **He who dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the LORD, "He is my refuge and my fortress, my God, in whom I trust." - Psalm 91:1-2 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
