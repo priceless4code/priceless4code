@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand. - Isaiah 41:10 (NIV)**
+> **He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away. - Revelation 21:4 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
