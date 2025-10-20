@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do. - Ephesians 2:10 (NIV)**
+> **So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness. - Colossians 2:6-7 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
