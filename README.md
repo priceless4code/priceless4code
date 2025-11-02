@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **For to me, to live is Christ and to die is gain. - Philippians 1:21 (NIV)**
+> **What, then, shall we say in response to these things? If God is for us, who can be against us? - Romans 8:31 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
