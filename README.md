@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **“Come now, let us settle the matter,” says the Lord. “Though your sins are like scarlet, they shall be as white as snow; though they are red as crimson, they shall be like wool. - Isaiah 1:18 (NIV)**
+> **By day the Lord directs his love, at night his song is with me— a prayer to the God of my life. - Psalm 42:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
