@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **You will keep in perfect peace those whose minds are steadfast, because they trust in you. - Isaiah 26:3 (NIV)**
+> **However, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name. - 1 Peter 4:16 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
