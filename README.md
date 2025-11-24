@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth. - Psalm 121:1-2 (NIV)**
+> **Rejoice in the Lord always. I will say it again: Rejoice! - Philippians 4:4 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
