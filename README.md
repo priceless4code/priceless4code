@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **But just as he who called you is holy, so be holy in all you do; for it is written: “Be holy, because I am holy.” - 1 Peter 1:15-16 (NIV)**
+> **"A new command I give you: Love one another. As I have loved you, so you must love one another. - John 13:34 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
