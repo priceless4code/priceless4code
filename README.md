@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Whoever believes in me, as Scripture has said, rivers of living water will flow from within them. - John 7:38  (NIV)**
+> **Give praise to the Lord, proclaim his name; make known among the nations what he has done. - 1 Chronicles 16:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
