@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **I appeal to you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree with one another in what you say and that there be no divisions among you, but that you be perfectly united in mind and thought. - 1 Corinthians 1:10 (NIV)**
+> **You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love. - Galatians 5:13 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
