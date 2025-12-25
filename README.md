@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love. - Galatians 5:13 (NIV)**
+> **Truly my soul finds rest in God; my salvation comes from him. - Psalm 62:1 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
