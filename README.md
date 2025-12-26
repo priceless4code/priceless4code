@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Truly my soul finds rest in God; my salvation comes from him. - Psalm 62:1 (NIV)**
+> **Love is patient, love is kind. It does not envy, it does not boast, it is not proud. - 1 Corinthians 13:4 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
