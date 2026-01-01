@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The Lord is far from the wicked, but he hears the prayer of the righteous. - Proverbs 15:29 (NIV)**
+> **LORD, you establish peace for us; all that we have accomplished you have done for us. - Isaiah 26:12 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
