@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **God is our refuge and strength, an ever-present help in trouble. - Psalm 46:1 (NIV)**
+> **Do not merely listen to the word, and so deceive yourselves. Do what it says. - James 1:22 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
