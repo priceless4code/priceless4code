@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **You too, be patient and stand firm, because the Lord’s coming is near. - James 5:8 (NIV)**
+> **For in Christ all the fullness of the Deity lives in bodily form, and in Christ you have been brought to fullness. He is the head over every power and authority. - Colossians 2:9-10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
