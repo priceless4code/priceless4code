@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Before his downfall a man's heart is proud, but humility comes before honor. - Proverbs 18:12 (NIV)**
+> **If we live, we live for the Lord; and if we die, we die for the Lord. So, whether we live or die, we belong to the Lord. - Romans 14:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
