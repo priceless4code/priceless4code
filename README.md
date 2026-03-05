@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The name of the Lord is a strong tower: the righteous runneth into it, and is safe. - Proverbs 18:10 (NIV)**
+> **Be on your guard; stand firm in the faith; be courageous; be strong. - 1 Corinthians 16:13 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
