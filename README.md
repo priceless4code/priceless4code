@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **By day the Lord directs his love, at night his song is with me— a prayer to the God of my life. - Psalm 42:8 (NIV)**
+> **Consequently, you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household - Ephesians 2:19 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
