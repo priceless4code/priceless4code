@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above ourselves, not looking to your own interests but each of you to the interests of the others. - Philippians 2:3-4 (NIV)**
+> **He who did not spare his own Son, but gave him up for us all—how will he not also, along with him, graciously give us all things? - Romans 8:32 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
