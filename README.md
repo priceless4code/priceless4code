@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Everyone comes naked from their mother's womb, and as everyone comes, so they depart. They take nothing from their toil that they can carry in their hands. - Ecclesiastes 5:15 (NIV)**
+> **Great peace have those who love your law, and nothing can make them stumble. - Psalm 119:165 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
