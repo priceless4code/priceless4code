@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else. - 1 Thessalonians 5:15 (NIV)**
+> **Great is the Lord and most worthy of praise; his greatness no one can fathom. - Psalm 145:3 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
