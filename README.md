@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **As the deer pants for streams of water, so my soul pants for you, my God. - Psalm 42:1 (NIV)**
+> **Whoever believes in me, as Scripture has said, rivers of living water will flow from within them. - John 7:38  (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
