@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Give praise to the Lord, proclaim his name; make known among the nations what he has done. - 1 Chronicles 16:8 (NIV)**
+> **I remain confident of this: I will see the goodness of the lord in the land of the living. - Psalm 27:13  (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
