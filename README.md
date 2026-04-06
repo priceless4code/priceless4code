@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere. - James 3:17 (NIV)**
+> **The person without the Spirit does not accept the things that come from the Spirit of God but considers them foolishness, and cannot understand them because they are discerned only through the Spirit. - 1 Corinthians 2:14 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
