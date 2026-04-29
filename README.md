@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **“I am the Alpha and the Omega,” says the Lord God, “who is, and who was, and who is to come, the Almighty.” - Revelation 1:8 (NIV)**
+> **The Lord is far from the wicked, but he hears the prayer of the righteous. - Proverbs 15:29 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
