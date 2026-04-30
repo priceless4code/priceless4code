@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The Lord is far from the wicked, but he hears the prayer of the righteous. - Proverbs 15:29 (NIV)**
+> **Set your minds on things above, not on earthly things. - Colossians 3:2 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
