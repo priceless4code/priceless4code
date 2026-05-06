@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Now faith is confidence in what we hope for and assurance about what we do not see. - Hebrews 11:1 (NIV)**
+> **"'If you can'?" said Jesus. "Everything is possible for him who believes." - Mark 9:23 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
