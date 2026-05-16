@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Delight yourself in the LORD and he will give you the desires of your heart. - Psalm 37:4 (NIV)**
+> **The world and its desires pass away, but the man who does the will of God lives forever. - 1 John 2:17 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
