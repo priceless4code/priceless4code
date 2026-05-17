@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The world and its desires pass away, but the man who does the will of God lives forever. - 1 John 2:17 (NIV)**
+> **Blessed are those who hunger and thirst for righteousness, for they will be filled. - Matthew 5:6 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
