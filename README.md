@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The LORD is close to the brokenhearted and saves those who are crushed in spirit. - Psalm 34:18 (NIV)**
+> **You will be enriched in every way so that you can be generous on every occasion, and through us your generosity will result in thanksgiving to God. - 2 Corinthians 9:11 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
