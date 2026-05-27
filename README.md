@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **"You are the light of the world. A town built on a hill cannot be hidden." - Matthew 5:14 (NIV)**
+> **Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world. - 1 John 4:1 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
