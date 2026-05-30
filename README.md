@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; it is he who will save us. - Isaiah 33:22 (NIV)**
+> **God is our refuge and strength, an ever-present help in trouble. - Psalm 46:1 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
