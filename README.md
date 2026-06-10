@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness; by his wounds you have been healed. - 1 Peter 2:24 (NIV)**
+> **Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God. Indeed, the very hairs of your head are all numbered. Don’t be afraid; you are worth more than many sparrows. - Luke 12:6-7 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
