@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline. - 2 Timothy 1:7 (NIV)**
+> **Better is one day in your courts than a thousand elsewhere; I would rather be a doorkeeper in the house of my God than dwell in the tents of the wicked. - Psalm 84:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
