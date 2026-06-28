@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **But, “Let the one who boasts boast in the Lord.” For it is not the one who commends himself who is approved, but the one whom the Lord commends. - 2 Corinthians 10:17-18 (NIV)**
+> **But even if you should suffer for what is right, you are blessed. "Do not fear what they fear; do not be frightened." - 1 Peter 3:14 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
