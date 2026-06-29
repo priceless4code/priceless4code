@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **But even if you should suffer for what is right, you are blessed. "Do not fear what they fear; do not be frightened." - 1 Peter 3:14 (NIV)**
+> **Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. - Joshua 1:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
