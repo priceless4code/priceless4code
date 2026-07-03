@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **What, then, shall we say in response to these things? If God is for us, who can be against us? - Romans 8:31 (NIV)**
+> **I keep my eyes always on the Lord. With him at my right hand, I will not be shaken. - Psalm 16:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
