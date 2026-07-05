@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **My soul yearns for you in the night; in the morning my spirit longs for you. When your judgments come upon the earth, the people of the world learn righteousness. - Isaiah 26:9 (NIV)**
+> **The name of the Lord is a strong tower: the righteous runneth into it, and is safe. - Proverbs 18:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
