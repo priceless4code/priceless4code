@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Consequently, you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household - Ephesians 2:19 (NIV)**
+> **Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above ourselves, not looking to your own interests but each of you to the interests of the others. - Philippians 2:3-4 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
