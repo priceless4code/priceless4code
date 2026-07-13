@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **To do what is right and just is more acceptable to the LORD than sacrifice. - Proverbs 21:3 (NIV)**
+> **I love the Lord, for he heard my voice; he heard my cry for mercy. Because he turned his ear to me, I will call on him as long as I live. - Psalm 116:1-2 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
