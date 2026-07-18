@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Great is the Lord and most worthy of praise; his greatness no one can fathom. - Psalm 145:3 (NIV)**
+> **You will keep in perfect peace those whose minds are steadfast, because they trust in you. - Isaiah 26:3 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
