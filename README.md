@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **I put no trust in my bow, my sword does not bring me victory; - Psalm 44:6 (NIV)**
+> **For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— - Ephesians 2:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
