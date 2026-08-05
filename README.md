@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **I remain confident of this: I will see the goodness of the lord in the land of the living. - Psalm 27:13  (NIV)**
+> **But seek first his kingdom and his righteousness, and all these things will be given to you as well. - Matthew 6:33 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
