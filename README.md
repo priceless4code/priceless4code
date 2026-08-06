@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **But seek first his kingdom and his righteousness, and all these things will be given to you as well. - Matthew 6:33 (NIV)**
+> **But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere. - James 3:17 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
