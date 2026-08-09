@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Godly sorrow brings repentance that leads to salvation and leaves no regret, but worldly sorrow brings death. - 2 Corinthians 7:10 (NIV)**
+> **If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God. - 1 John 4:15 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
