@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Do not boast about tomorrow, for you do not know what a day may bring. - Proverbs 27:1 (NIV)**
+> **Jesus looked at them and said, "With man this is impossible, but with God all things are possible." - Matthew 19:26 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
