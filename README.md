@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners—of whom I am the worst. - 1 Timothy 1:15 (NIV)**
+> **Listen to advice and accept discipline, and at the end you will be counted among the wise. Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails. - Proverbs 19:20-21 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
