@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The Lord will guide you always; he will satisfy your needs in a sun-scorched land and will strengthen your frame. You will be like a well-watered garden, like a spring whose waters never fail. - Isaiah 58:11 (NIV)**
+> **Come to me, all you who are weary and burdened, and I will give you rest. - Matthew 11:28 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
