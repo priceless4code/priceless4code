@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Love is patient, love is kind. It does not envy, it does not boast, it is not proud. - 1 Corinthians 13:4 (NIV)**
+> **But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong. - 1 Corinthians 1:27 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
