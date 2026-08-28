@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **If you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him! - Luke 11:13  (NIV)**
+> **And now these three remain: faith, hope and love. But the greatest of these is love. - 1 Corinthians 13:13 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
