@@ -100,34 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Application&#39;s dyno hours exhausted Error</title>
-    <style media="screen">
-      html,body,iframe {
-        margin: 0;
-        padding: 0;
-      }
-
-      html,body {
-        height: 100%;
-        overflow: hidden;
-      }
-
-      iframe {
-        width: 100%;
-        height: 100%;
-        border: 0;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe src="https://www.herokucdn.com/error-pages/application-error.html"></iframe>
-  </body>
-</html>**
+> **If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. - 1 Corinthians 13:2 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
