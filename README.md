@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **If I have the gift of prophecy and can fathom all mysteries and all knowledge, and if I have a faith that can move mountains, but do not have love, I am nothing. - 1 Corinthians 13:2 (NIV)**
+> **To all perfection I see a limit, but your commands are boundless. - Psalm 119:96 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
