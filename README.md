@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **To all perfection I see a limit, but your commands are boundless. - Psalm 119:96 (NIV)**
+> **Dear children, let us not love with words or speech but with actions and in truth. - 1 John 3:18 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
