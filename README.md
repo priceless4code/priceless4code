@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **In his heart a man plans his course, but the LORD determines his steps. - Proverbs 16:9 (NIV)**
+> **Your word is a lamp to my feet and a light for my path. - Psalm 119:105 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
