@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **He who dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the LORD, "He is my refuge and my fortress, my God, in whom I trust." - Psalm 91:1-2 (NIV)**
+> **Do not be wise in your own eyes; fear the LORD and shun evil. This will bring health to your body and nourishment to your bones. - Proverbs 3:7-8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
