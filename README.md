@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Do not be wise in your own eyes; fear the LORD and shun evil. This will bring health to your body and nourishment to your bones. - Proverbs 3:7-8 (NIV)**
+> **Do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. - Matthew 6:34 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
