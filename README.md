@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **God who began a good work in you will carry it on to completion until the day of Christ Jesus. - Philippians 1:6 (NIV)**
+> **Delight yourself in the LORD and he will give you the desires of your heart. - Psalm 37:4 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
