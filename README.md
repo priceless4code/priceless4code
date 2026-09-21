@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **You will be enriched in every way so that you can be generous on every occasion, and through us your generosity will result in thanksgiving to God. - 2 Corinthians 9:11 (NIV)**
+> **The unfolding of your words gives light; it gives understanding to the simple. - Psalm 119:130 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
