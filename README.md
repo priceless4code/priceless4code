@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **The unfolding of your words gives light; it gives understanding to the simple. - Psalm 119:130 (NIV)**
+> **So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand. - Isaiah 41:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
