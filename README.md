@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **I know that my redeemer lives, and that in the end he will stand on the earth. - Job 19:25 (NIV)**
+> **Sovereign Lord, you are God! Your covenant is trustworthy, and you have promised these good things to your servant. - 2 Samuel 7:28 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
