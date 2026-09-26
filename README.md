@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Sovereign Lord, you are God! Your covenant is trustworthy, and you have promised these good things to your servant. - 2 Samuel 7:28 (NIV)**
+> **"You are the light of the world. A town built on a hill cannot be hidden." - Matthew 5:14 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
