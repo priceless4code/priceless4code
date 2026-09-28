@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world. - 1 John 4:1 (NIV)**
+> **You are my refuge and my shield; I have put my hope in your word. - Psalm 119:114 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
