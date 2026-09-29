@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **You are my refuge and my shield; I have put my hope in your word. - Psalm 119:114 (NIV)**
+> **For the LORD is our judge, the LORD is our lawgiver, the LORD is our king; it is he who will save us. - Isaiah 33:22 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
