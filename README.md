@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all. - 2 Corinthians 13:14 (NIV)**
+> **"The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full." - John 10:10 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
