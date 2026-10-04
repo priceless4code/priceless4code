@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **"The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full." - John 10:10 (NIV)**
+> **You too, be patient and stand firm, because the Lord’s coming is near. - James 5:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
