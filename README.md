@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **For in Christ all the fullness of the Deity lives in bodily form, and in Christ you have been brought to fullness. He is the head over every power and authority. - Colossians 2:9-10 (NIV)**
+> **I will instruct you and teach you in the way you should go; I will counsel you and watch over you. - Psalm 32:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
