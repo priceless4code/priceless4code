@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **I will instruct you and teach you in the way you should go; I will counsel you and watch over you. - Psalm 32:8 (NIV)**
+> **Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord. - Hebrews 12:14 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
