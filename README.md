@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Make every effort to live in peace with everyone and to be holy; without holiness no one will see the Lord. - Hebrews 12:14 (NIV)**
+> **Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God--this is your spiritual act of worship. - Romans 12:1 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
