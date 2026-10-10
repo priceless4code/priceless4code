@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **For the LORD takes delight in his people; he crowns the humble with salvation. - Psalm 149:4 (NIV)**
+> **He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness; by his wounds you have been healed. - 1 Peter 2:24 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
