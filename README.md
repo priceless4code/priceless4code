@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Even the youths shall faint and be weary, and the young men shall utterly fall: But they that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint. - Isaiah 40:30-31 (NIV)**
+> **To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life. But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger. - Romans 2:7-8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
