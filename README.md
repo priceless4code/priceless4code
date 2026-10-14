@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **To those who by persistence in doing good seek glory, honor and immortality, he will give eternal life. But for those who are self-seeking and who reject the truth and follow evil, there will be wrath and anger. - Romans 2:7-8 (NIV)**
+> **For it is not those who hear the law who are righteous in God's sight, but it is those who obey the law who will be declared righteous. - Romans 2:13 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
