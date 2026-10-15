@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **For it is not those who hear the law who are righteous in God's sight, but it is those who obey the law who will be declared righteous. - Romans 2:13 (NIV)**
+> **I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world. - John 16:33 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
