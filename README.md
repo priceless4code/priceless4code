@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **So then, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness. - Colossians 2:6-7 (NIV)**
+> **Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you; he will never leave you nor forsake you. - Deuteronomy 31:6 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
