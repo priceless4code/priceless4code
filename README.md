@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ. - Galatians 1:10 (NIV)**
+> **But, “Let the one who boasts boast in the Lord.” For it is not the one who commends himself who is approved, but the one whom the Lord commends. - 2 Corinthians 10:17-18 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
