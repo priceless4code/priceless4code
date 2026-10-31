@@ -100,7 +100,34 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. - Joshua 1:8 (NIV)**
+> **<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Application&#39;s dyno hours exhausted Error</title>
+    <style media="screen">
+      html,body,iframe {
+        margin: 0;
+        padding: 0;
+      }
+
+      html,body {
+        height: 100%;
+        overflow: hidden;
+      }
+
+      iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe src="https://www.herokucdn.com/error-pages/application-error.html"></iframe>
+  </body>
+</html>**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
