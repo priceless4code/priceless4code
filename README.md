@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Great peace have those who love your law, and nothing can make them stumble. - Psalm 119:165 (NIV)**
+> **Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else. - 1 Thessalonians 5:15 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
