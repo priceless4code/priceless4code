@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **However, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name. - 1 Peter 4:16 (NIV)**
+> **Start children off on the way they should go, and even when they are old they will not turn from it. - Proverbs 22:6 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
