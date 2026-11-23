@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession—to the praise of his glory. - Ephesians 1:13-14 (NIV)**
+> **I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth. - Psalm 121:1-2 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
