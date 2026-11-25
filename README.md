@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **Rejoice in the Lord always. I will say it again: Rejoice! - Philippians 4:4 (NIV)**
+> **But just as he who called you is holy, so be holy in all you do; for it is written: “Be holy, because I am holy.” - 1 Peter 1:15-16 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
