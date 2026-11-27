@@ -100,7 +100,7 @@
 
 <!-- BIBLE-VERSE-START -->
 
-> **"A new command I give you: Love one another. As I have loved you, so you must love one another. - John 13:34 (NIV)**
+> **Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble. - 1 Peter 3:8 (NIV)**
 <!-- BIBLE-VERSE-END -->
 ---
 **Thanks for stopping by. Stay blessed, stay coding.**  
